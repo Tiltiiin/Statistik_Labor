@@ -1,0 +1,116 @@
+Statistik Labor
+Teilergebnisse
+Endziffern der Matrikelnr.: 90
+ 
+Hinweis: Jedes Fragezeichen ? steht für eine von Ihnen zu bestimmende Ziffer.
+ 
+*******************************************************************************************
+ 
+Aufgabe 1d) und 1e):
+ 
+Hilfe zur Kontrolle: Gesamtanzahlen (Männer und Frauen) in den Altersklassen
+ 
+Altersklasse bis 20 Jahre:    insgesamt  2 Personen (Männer + Frauen)
+Altersklasse 21 bis 30 Jahre: insgesamt 52 Personen (Männer + Frauen)
+Altersklasse 31 bis 40 Jahre: insgesamt 26 Personen (Männer + Frauen)
+Altersklasse 41 bis 50 Jahre: insgesamt 18 Personen (Männer + Frauen)
+Altersklasse über 50 Jahre:   insgesamt  5 Personen (Männer + Frauen)
+ 
+Aufgabe 1f)
+ 
+Mittelwert des Alters (alle Beschäftigten):           ??,0777
+Varianz des Alters (alle Beschäftigten):             ???,0919
+Standardabweichung des Alters (alle Beschäftigten):   ??,0046
+ 
+Mittelwert des Alters (Frauen):                       ??,2549
+Varianz des Alters (Frauen):                         ???,7937
+Standardabweichung des Alters (Frauen):               ??,4304
+ 
+Mittelwert des Alters (Männer):                       ??,9038
+Varianz des Alters (Männer):                          ??,4612
+Standardabweichung des Alters (Männer):                ?,6675
+ 
+Kontrollsummen für die zu berechnenden Mediane und Spannweiten
+(nur zur Kontrolle - bitte geben Sie diese sechs Kennzahlen getrennt aus):
+ 
+Summe Median(Männer) + Median(Frauen) + Median(alle) =  89,5
+Summe Spannweite(Männer) + Spannweite(Frauen) + Spannweite(alle) = 136
+ 
+*******************************************************************************************
+ 
+Hinweis zu Aufgabe 2:
+ 
+Achten Sie zur Vermeidung von Rundungsfehlern bei Berechnung der Prognose darauf, dass Sie
+die Koeffizienten der Regressionskurve mit ausreichend vielen Nachkommastellen berechnen.
+ 
+Aufgabe 2f)
+ 
+Beste Prognose für das Jahr 2030: ?6?,1?? Millionen Einwohner
+ 
+Aufgabe 2g)
+ 
+Prognose für das Jahr 2030 mit logarithmischer Regression: ?9?,3?? Millionen Einwohner
+ 
+*******************************************************************************************
+ 
+Aufgabe 3
+ 
+a) Erwartungswert     von X10:    -1,?12?
+   Varianz            von X10: ????5,77??
+   Standardabweichung von X10:   ???,87??
+ 
+b) Erwartungswert     von X9:     -0,?99?
+   Varianz            von X9:  ????8,07??
+   Standardabweichung von X9:    ???,92??
+ 
+   Erwartungswert     von X8:     -1,?21?
+   Varianz            von X8:   ???8,72??
+   Standardabweichung von X8:     ??,20??
+ 
+   Erwartungswert     von X7:     -1,?08?
+   Varianz            von X7:    ??1,78??
+   Standardabweichung von X7:     ??,21??
+ 
+   Erwartungswert     von X6:     -1,?05?
+   Varianz            von X6:    ??1,35??
+   Standardabweichung von X6:     ??,35??
+ 
+   Erwartungswert     von X5:     -1,?02?
+   Varianz            von X5:     ?6,01??
+   Standardabweichung von X5:      ?,48??
+ 
+   Erwartungswert     von X4:     -1,?11?
+   Varianz            von X4:     ?1,26??
+   Standardabweichung von X4:      ?,35??
+ 
+   Erwartungswert     von X3:     -0,?86?
+   Varianz            von X3:     ?0,99??
+   Standardabweichung von X3:      ?,58??
+ 
+   Erwartungswert     von X2:     -1,?55?
+   Varianz            von X2:     ?0,43??
+   Standardabweichung von X2:      ?,23??
+ 
+d) Die gesuchte Wahrscheinlichkeit ist 0,?46?
+ 
+*******************************************************************************************
+ 
+Aufgabe 4b)
+ 
+Messreihe 1: Mittelwert         = ???,96??
+Messreihe 1: Varianz            =   ?,84??
+Messreihe 1: Standardabweichung =   ?,96??
+Messreihe 1: Median             = ???,02??
+Messreihe 1: Spannweite         =   ?,89??
+ 
+Messreihe 2: Mittelwert         =  ??,41??
+Messreihe 2: Varianz            =   ?,17??
+Messreihe 2: Standardabweichung =   ?,42??
+Messreihe 2: Median             =  ??,29??
+Messreihe 2: Spannweite         =   ?,98??
+ 
+Messreihe 3: Mittelwert         =   ?,06??
+Messreihe 3: Varianz            =   ?,38??
+Messreihe 3: Standardabweichung =   ?,32??
+Messreihe 3: Median             =   ?,11??
+Messreihe 3: Spannweite         =   ?,94??

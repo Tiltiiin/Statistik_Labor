@@ -1,0 +1,15 @@
+2.11.22
+
+Hallo Herr Müller,
+
+Ihre Aufgabe 1 ist fast ok. Bitte geben Sie das Säulendiagramm nochmal ab (Sie können gerne die ganze Aufgabe nochmal hochladen) und beschriften Sie die Säulen mit den Werten (spätestestens bis 14.11.).
+
+Zwei Tipps:
+
+    die Berechnungen werden übersichtlicher, wenn Sie sie in Tabellenform angeben, also z. B. Männer und Frauen bzw. Gesamt als Spalten der Altersverteilung oder der Kennzahlen
+    Sie haben die Prozentwerte ausgerechnet und damit die Kreisdiagramme erstellt. Den Schritt können Sie sich sparen, wenn Sie die Kreisdiagramme direkt aus den Anzahlen erstellen und als Beschriftungsoption "Prozent" auswählen (rechte Maustaste auf die Beschriftung). 
+
+Die Bewertung bleibt auf "Keine Bewertung", da es nur "bestanden" und "nicht bestanden" gibt.
+
+Viele Grüße
+Karin Melzer
