@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Read(//usr/**)",
+      "Read(//c/Users/tilma/anaconda3/bin/**)",
+      "Read(//c/Users/tilma/miniconda3/bin/**)",
+      "PowerShell(Get-Command *)",
+      "Bash(/c/Users/tilma/anaconda3/python.exe *)"
+    ]
+  }
+}
